@@ -1,0 +1,10 @@
+var x = ["taro", 39];
+var y = ["hanako", 28];
+var z = ["kato", 50];
+x[1] = 28;
+// y[1] = 17;
+// y.pop();
+z.pop();
+console.log(x);
+console.log(y);
+console.log(z);
